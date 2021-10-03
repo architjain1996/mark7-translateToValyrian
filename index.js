@@ -6,7 +6,7 @@ var btnTranslate=document.querySelector("#btnTranslate");
 
 function urlConstructor(inputText)
 {
-    return "https://api.funtranslations.com/translate/minion.json?text='"+inputText+"'";
+    return "https://api.funtranslations.com/translate/valyrian.json?text='"+inputText+"'";
 }
 
 function translateToMinionese()
